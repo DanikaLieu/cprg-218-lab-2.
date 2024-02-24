@@ -9,6 +9,7 @@
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+    - [Macha Mochi](#macha-mochi)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
@@ -119,3 +120,26 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### Macha Mochi
+
+Ingredients:
+
+1 cup sweet rice flour (mochiko)
+1/4 cup sugar
+1 teaspoon matcha powder (green tea powder)
+cup water
+Cornstarch or potato starch (for dusting)
+Additional matcha powder for dusting
+Sweet red bean paste (anko) for filling
+Toasted sesame seeds or shredded coconut for coating
+Instructions:
+
+
+instructions
+1. In a mixing bowl, whisk together the sweet rice flour, sugar, and 2 matcha powder until well combined. Gradually add water to the dry ingredients, whisking continuously to avoid lumps.
+2. Once the mixture is smooth, transfer it to a heatproof dish.
+3. Steam the mochi mixture over medium-high heat for about 20-25 minutes, or until it becomes translucent and has a slightly sticky, gelatinous texture.
+4. Stir the mochi occasionally during steaming to ensure even cooking. Cool and Shape:
+5. Allow the steamed mochi to cool for a few minutes until it's comfortable to handle. Dust your hands with cornstarch or potato starch to prevent sticking.
+6. Scoop out small portions of mochi and shape them into balls. If desired, you can fill the center with sweet red bean paste before shaping.

@@ -82,6 +82,7 @@ Ingredients:
 - 2 tablespoons olive oil
 - 4 slices Swiss cheese
 - 4 hamburger buns
+- 1 stick of butter
 - Lettuce
 - Tomato
 - Mayonnaise
@@ -89,10 +90,11 @@ Ingredients:
 Instructions:
 1. Preheat grill to medium-high heat.
 2. Season chicken breasts with salt and pepper and drizzle with olive oil.
-3. Grill chicken for 5-7 minutes per side or until cooked through.
-4. Top each chicken breast with a slice of Swiss cheese and let melt.
-5. Toast hamburger buns on the grill.
-6. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
+4. use butter to melt in the pan
+5. Grill chicken for 5-7 minutes per side or until cooked through.
+6. Top each chicken breast with a slice of Swiss cheese and let melt.
+7. Toast hamburger buns on the grill.
+8. Assemble sandwiches with chicken, lettuce, tomato, and mayonnaise.
 
 ## Desserts
 ### Chocolate Chip Cookies

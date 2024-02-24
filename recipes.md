@@ -59,6 +59,10 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
+- 1/4 cup fresh parsley
+- 1/4 cup grated carrot
+- 1/4 cup chopped onion
+- 1/4 cup chopped bell pepper
 
 Instructions:
 1. Cook spaghetti according to package instructions.

@@ -127,14 +127,14 @@ Instructions:
 
 Ingredients:
 
-1 cup sweet rice flour (mochiko)
-1/4 cup sugar
-1 teaspoon matcha powder (green tea powder)
-cup water
-Cornstarch or potato starch (for dusting)
-Additional matcha powder for dusting
-Sweet red bean paste (anko) for filling
-Toasted sesame seeds or shredded coconut for coating
+- 1 cup sweet rice flour (mochiko)
+- 1/4 cup sugar
+- 1 teaspoon matcha powder (green tea powder)
+- 1 cup water
+- 1 tablespoon Cornstarch or potato starch (for dusting)
+- pinh of Additional matcha powder for dusting
+- 2 cups Sweet red bean paste (anko) for filling
+- 1/2 cup Toasted sesame seeds or shredded coconut for coating
 Instructions:
 
 
